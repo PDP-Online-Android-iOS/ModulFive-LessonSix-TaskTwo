@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initViews() {
+
         recyclerView = findViewById(R.id.rv_essential);
         rv_fashion = findViewById(R.id.rv_ll_fashion);
         rv_popular = findViewById(R.id.rv_ll_popular);
