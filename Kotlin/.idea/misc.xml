@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_lens.xml" value="0.2462962962962963" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29739583333333336" />
+        <entry key="app/src/main/res/layout/item_book.xml" value="0.39114583333333336" />
+        <entry key="app/src/main/res/layout/item_image.xml" value="0.39114583333333336" />
       </map>
     </option>
   </component>
